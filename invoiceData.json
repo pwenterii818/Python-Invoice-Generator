@@ -1,0 +1,15 @@
+{
+    "invoice001": {
+        "customerFName": "First Name",
+        "customerLName": "Last Name",
+        "customerAddress": "Address",
+        "customerCity": "City",
+        "customerState": "State",
+        "customerZip": "Zip",
+        "item001": {
+            "name": "Item 1",
+            "quantity": 1,
+            "price": 10.0
+        }
+    }
+}
